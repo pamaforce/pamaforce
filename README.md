@@ -1,16 +1,18 @@
-### Hi there 👋
+## Hi there 👋 I'm `Pamaforce`, you can also call me `Pama` and my real name is `Liu Hongwei`!
 
-<!--
-**pamaforce/pamaforce** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://komarev.com/ghpvc/?username=pamaforce"/>
 
-Here are some ideas to get you started:
+<img src="https://github-readme-stats.vercel.app/api?username=pamaforce&show_icons=true&theme=buefy&count_private=true&include_all_commits=true" width="320" align="right"/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👨‍🎓 `Junior undergraduate student` from `TJU` (Expected Graduation: 2025).
+- 🎓 Major: `Cybersecurity` (which can enable me to become an amazing  🧑‍💻 `hacker`).
+- 🏢 College: `College of Intelligence and Computing`.
+- 🔭 I enjoy working on `front-end development`.
+- 🌱 I want to become a `full-stack software developer`.
+- 📫 How to reach me: 1327374483@qq.com or pama@tju.edu.cn.
+- ⚡ Fun fact: I enjoy playing 🎮 `League of Legends` and I excel at playing 🗡️ `Master Yi`. I have achieved the 👑 `Challenger` rank in solo/duo queue.
+
+  
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pamaforce&layout=compact" width="360"/></p>
+
+<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=pamaforce&margin-w=15&margin-h=15"/></p>
