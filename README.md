@@ -10,7 +10,7 @@
 - 🔭 I enjoy working on `front-end development`.
 - 🌱 I want to become a `full-stack software developer`.
 - 🖥️ Currently working as a `front-end intern` on `Baidu`.
-- 📫 How to reach me: 1327374483@qq.com or pama@tju.edu.cn.
+- 📫 How to reach me: pama@tju.edu.cn.
 - ⚡ Fun fact: I enjoy playing 🎮 `League of Legends` and I excel at playing 🗡️ `Master Yi`. I have achieved the 👑 `Challenger` rank in solo/duo queue.
 
   
