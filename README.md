@@ -12,7 +12,7 @@
 - 🖥️ Currently working as a `front-end intern` on `Baidu`.
 - 📫 How to reach me: pama@tju.edu.cn.
 - ⚡ Fun fact: I enjoy playing 🎮 `League of Legends` and I excel at playing 🗡️ `Master Yi`. I have achieved the 👑 `Challenger` rank in solo/duo queue.
-
+- 🌟 Motto: "真正的大师永远都怀着一颗学徒的心".
   
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pamaforce&layout=compact" width="360"/></p>
 
