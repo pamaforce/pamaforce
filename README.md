@@ -4,7 +4,7 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=pamaforce&show_icons=true&theme=buefy&count_private=true&include_all_commits=true" width="320" align="right"/>
 
-- 👨‍🎓 `Junior undergraduate student` from `TJU` (Expected Graduation: 2025).
+- 👨‍🎓 `Senior undergraduate student` from `TJU` (Expected Graduation: 2025).
 - 🎓 Major: `Cybersecurity` (which can enable me to become an amazing  🧑‍💻 `hacker`).
 - 🏢 College: `College of Intelligence and Computing`.
 - 🔭 I enjoy working on `front-end development`.
