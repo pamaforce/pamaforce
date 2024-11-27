@@ -9,7 +9,7 @@
 - 🏢 College: `College of Intelligence and Computing`.
 - 🔭 I enjoy working on `front-end development`.
 - 🌱 I want to become a `full-stack software developer`.
-- 🖥️ Currently working as a `front-end intern` on `Baidu`.
+- 🖥️ Currently working as a `software engineer intern` at `ByteDance` (will officially start full-time on 2025.07.01; previously a intern at `Baidu` from 2023.12.13 to 2024.11.28).
 - 📫 How to reach me: pama@tju.edu.cn.
 - ⚡ Fun fact: I enjoy playing 🎮 `League of Legends` and I excel at playing 🗡️ `Master Yi`. I have achieved the 👑 `Challenger` rank in solo/duo queue.
 - 🌟 Motto: "真正的大师永远都怀着一颗学徒的心".
