@@ -4,12 +4,12 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=pamaforce&show_icons=true&theme=buefy&count_private=true&include_all_commits=true" width="320" align="right"/>
 
-- 👨‍🎓 `Senior undergraduate student` from `TJU` (Expected Graduation: 2025).
+- 👨‍🎓 Graduated from `TJU (Tianjin University)` in 2025.
 - 🎓 Major: `Cybersecurity` (which can enable me to become an amazing  🧑‍💻 `hacker`).
 - 🏢 College: `College of Intelligence and Computing`.
 - 🔭 I enjoy working on `front-end development`.
 - 🌱 I want to become a `full-stack software developer`.
-- 🖥️ Currently working as a `software engineer intern` at `ByteDance` (will officially start full-time on 2025.07.01; previously a intern at `Baidu` from 2023.12.13 to 2024.11.28).
+- 🖥️ `Software Engineer` at `ByteDance`. Previously interned at `Baidu` (2023.12 - 2024.11) and `ByteDance` (2024.12 - 2025.07).
 - 📫 How to reach me: pama@tju.edu.cn.
 - ⚡ Fun fact: I enjoy playing 🎮 `League of Legends` and I excel at playing 🗡️ `Master Yi`. I have achieved the 👑 `Challenger` rank in solo/duo queue.
 - 🌟 Motto: "真正的大师永远都怀着一颗学徒的心".
