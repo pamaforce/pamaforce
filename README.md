@@ -7,6 +7,9 @@
   <br/>
   
   <img src="https://komarev.com/ghpvc/?username=pamaforce&style=flat-square&color=6E9EF5" alt="Profile Views"/>
+  <a href="mailto:pama@tju.edu.cn">
+    <img src="https://img.shields.io/badge/Email-pama%40tju.edu.cn-EA4335?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
   
 </div>
 
@@ -51,3 +54,5 @@
     <img src="https://img.shields.io/badge/⭐_Check-My_Stars-yellow?style=for-the-badge" />
   </a>
 </div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6E9EF5,100:9F7AEA&height=120&section=footer"/>
